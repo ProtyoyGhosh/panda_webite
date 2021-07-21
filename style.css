@@ -1,0 +1,25 @@
+.bg_info_custom {
+  background-color: #fceae8;
+}
+
+.button_custom {
+  color: white !important;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  width: 120px;
+}
+
+.catagories_custom img {
+  width: 100px;
+}
+.watch_bg {
+  background-color: #ffa500;
+}
+.shoes_bg {
+  background-color: #da70d6;
+}
+.bag_bg {
+  background-color: #0000ff;
+}
+.heading {
+  color: white;
+}
